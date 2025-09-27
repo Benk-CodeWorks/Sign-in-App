@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import GoogleButton from './components/GoogleButton';
 import MicrosoftButton from './components/MicrosoftButton';
 import { useMsal } from '@azure/msal-react';
